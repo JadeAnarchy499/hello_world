@@ -1,2 +1,5 @@
 # hello_world
-A test repository
+
+Hello!
+
+My name's Jade, and I am a collage student. That is all.
